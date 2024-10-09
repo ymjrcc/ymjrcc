@@ -16,22 +16,18 @@ I'm a passionate frontend developer based in Hangzhou, Zhejiang, China. Currentl
 
 ## 🛠️ Projects
 Here are some of my projects that showcase my skills:
-
+---
 - [NFT Market Plus](nft-market-plus-fe.vercel.app)
-An innovative NFT marketplace leveraging ERC20Permit and EIP712 standards for enhanced gas efficiency and improved security in digital asset transactions.
-
-GitHub Repositories: [Frontend](https://github.com/ymjrcc/nft-market-plus-fe) and [Contracts](https://github.com/ymjrcc/nft-market-plus)
-
+- An innovative NFT marketplace leveraging ERC20Permit and EIP712 standards for enhanced gas efficiency and improved security in digital asset transactions.
+- GitHub Repositories: [Frontend](https://github.com/ymjrcc/nft-market-plus-fe) and [Contracts](https://github.com/ymjrcc/nft-market-plus)
+---
 - [Web3 Bricks](https://web3-bricks-fe.vercel.app/)
-A comprehensive toolkit offering essential Web3 functionalities including multi-signature wallets, Merkle tree airdrops, crowdfunding tools, and auctions, designed to facilitate learning and practical development in the Web3 ecosystem.
-
-GitHub Repositories: [Frontend](https://github.com/ymjrcc/web3-bricks-fe) and [Contracts](https://github.com/ymjrcc/web3-bricks)
-
+- A comprehensive toolkit offering essential Web3 functionalities including multi-signature wallets, Merkle tree airdrops, crowdfunding tools, and auctions, designed to facilitate learning and practical development in the Web3 ecosystem.
+- GitHub Repositories: [Frontend](https://github.com/ymjrcc/web3-bricks-fe) and [Contracts](https://github.com/ymjrcc/web3-bricks)
+---
 - [Web3 Frontend Template](https://web3-frontend-template.vercel.app/)
-A ready-to-use Web3 frontend boilerplate template, providing developers with a quick start for decentralized application development.
-
-GitHub Repository: [Frontend](https://github.com/ymjrcc/web3-frontend-template)
-
+- A ready-to-use Web3 frontend boilerplate template, providing developers with a quick start for decentralized application development.
+- GitHub Repository: [Frontend](https://github.com/ymjrcc/web3-frontend-template)
 
 ## 📊 GitHub Stats
 ![Yiming's GitHub stats](https://github-readme-stats.vercel.app/api?username=ymjrcc&show_icons=true&theme=radical)
