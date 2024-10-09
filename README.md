@@ -17,7 +17,7 @@ I'm a passionate frontend developer based in Hangzhou, Zhejiang, China. Currentl
 ## 🛠️ Projects
 Here are some of my projects that showcase my skills:
 ---
-- [NFT Market Plus](nft-market-plus-fe.vercel.app)
+- [NFT Market Plus](https://nft-market-plus-fe.vercel.app/)
 - An innovative NFT marketplace leveraging ERC20Permit and EIP712 standards for enhanced gas efficiency and improved security in digital asset transactions.
 - GitHub Repositories: [Frontend](https://github.com/ymjrcc/nft-market-plus-fe) and [Contracts](https://github.com/ymjrcc/nft-market-plus)
 ---
